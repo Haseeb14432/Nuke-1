@@ -1,0 +1,1 @@
+How to setup! Go to **main.py** and you will find some code named: **token = "YOUR TOKEN"**, in the **"YOUR TOKEN**" space, paste your bot token from **https://discord.com/developers/applications**. then click run, and you are ready to raid! send **!Nuke** to start the nuke, and **!Stop** to stop the nuke. happy nuking lol
